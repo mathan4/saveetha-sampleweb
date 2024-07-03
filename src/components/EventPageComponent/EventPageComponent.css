@@ -1,0 +1,32 @@
+.event-page {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .event-card {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    margin: 20px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .event-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .event-card h2 {
+    margin: 20px 0 10px;
+    font-size: 24px;
+  }
+  
+  .event-card p {
+    padding: 0 20px 20px;
+    font-size: 16px;
+    color: #555;
+  }
+  
